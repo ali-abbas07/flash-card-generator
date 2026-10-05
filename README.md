@@ -1,0 +1,2 @@
+# flash-card-generator
+GENERATION OF FLASH CARD USING HUGGING FACE
